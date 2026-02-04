@@ -20,3 +20,5 @@ This project demonstrates provisioning an EC2 instance using Terraform modules, 
 
 3. **GitHub**
    - Pushed Terraform and Strapi setup to GitHub
+     
+     https://github.com/ShirishaMenda/Task3/pull/1
